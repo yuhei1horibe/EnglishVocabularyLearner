@@ -1,0 +1,130 @@
+able
+形
+～できる
+He is (able) to speak French.
+彼はフランス語を話せる。
+able
+形
+有能な
+Mary is an (able) Secretary.
+メアリーは有能な秘書だ。
+ability
+名
+できること、才能
+He has the (ability) to speak three languages.
+彼は三ヶ国語を話せる
+enable
+動
+～できるようにする
+His hint (enabled) me to solve the problem.
+彼のヒントで問題を解決することができた。
+unable
+形
+不可能な
+I was (unable) to come back by six.
+私は6時までに家に戻ってこれなかった。
+accept
+動
+受け取る
+Mary will (accept) the invition to Bob's party.
+メアリーはボブのパーティーへの招待を受けることでしょう。
+acceptance
+名
+受け取ること
+His (acceptance) of the plan was expected.
+彼がその計画を承諾することが望まれていた。
+acceptable
+形
+受け入れられる
+The plan we made should be (acceptable) to them.
+われわれの作ったプランは彼らに受け入れられるはずだ。
+unacceptable
+動
+受け入れられない
+Your proposal is (unacceptable) to us.
+君の提案はわれわれには受け入れがたい。
+accident
+名
+事故、偶然
+My sister was injured in a traffic (accident).
+姉は交通事故で怪我をした。
+accident
+名
+偶然に
+I met my father at the store by (accident).
+私は偶然にその店で父に会った。
+accidental
+形
+偶然の
+Our meeting at Shinjuku Station was purely (accidental).
+我々が新宿駅で会ったのは全くの偶然であった。
+accidentally
+副
+偶然に
+I met him (accidentally) on the bus.
+バスで彼と偶然会った。
+accomplish
+動
+成し遂げる
+I wonder how you could (accomplish) so much in such a short time.
+そんなに短期間でどうやってそんなにたくさん完成できたんだろう。
+accomplishment
+名
+成就、完成
+The (accomplishment) of the project will take more than 10 years.
+そのプロジェクトの完成には10年以上かかるだろう。
+accomplished
+形
+完成した
+I can't accept it as an (accomplished) fact.
+それを既成事実として認めることはできない。
+accomplished
+形
+熟達した
+John Williams is a very (accomplished) composer.
+ジョン・ウィリアムズは大変熟達した作曲家だ。
+accurate
+形
+正確な
+A bank clerk must be (accurate) in counting money.
+銀行員は金の勘定は正確でなければならない。
+accuracy
+名
+正確さ
+We had to do the work with great (accuracy).
+我々はその仕事を正確にしなければならなかった。
+accurately
+副
+正確に
+You have to pronounce the word more (accurately).
+もっとその語を正確に発音せねばならない。
+inaccurate
+形
+不正確な
+Much of the information in this report is (inaccurate).
+このレポートの大部分は不正確である。
+act
+動
+行動する
+Mother told the children to (act) properly in school.
+母は子供に学校できちんと振舞うように言った。
+action
+名
+行動
+The crowd cried out, "We need (action), not words."
+群集は「必要なのは行動だ。言葉じゃない！」と叫んだ。
+activity
+名
+活動
+Do you have any extra-curricular (activities) this afternoon?
+君は午後何か課外活動がありますか。
+active
+形
+活動的な
+She remained healthy and (active) until she was eighty years old.
+彼女は80歳になるまで健康で活動的であった。
+actively
+副
+積極的に、活発に
+She is (actively) involved in charity work.
+彼女は慈善活動に積極的に参加している。
